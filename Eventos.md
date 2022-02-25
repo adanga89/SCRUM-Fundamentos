@@ -52,8 +52,8 @@ Se divide en dos Partes
     - Debe ser Regular
 - Máximo 15 minutos
 - Estructura definida por el equipo
-    - Que hice ayer para acercar
-    - ¿Que haré hoy
+    - ¿Qué hice ayer para acercar a la meta?
+    - ¿Qué haré hoy?
     - ¿Detecto algún impedimento?
 
 ## __SPRINT Review__
