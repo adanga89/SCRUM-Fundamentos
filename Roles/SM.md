@@ -1,4 +1,4 @@
-[Ir a Inicio](../SCRUM.md)
+[Ir a Principal](../SCRUM.md)  [Ir a Inicio](../Roles.md)
 
 - [Product Owner](./PO.md)
 - [Equipo de Desarrollo](./ED.md)
