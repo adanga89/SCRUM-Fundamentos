@@ -1,5 +1,3 @@
-# Agile + Scrum: Curso intensivo para sumergirse y profundizar
-
 # Cultura Agile
 
 ## Entornos Predictivos y Entornos Adaptativos
