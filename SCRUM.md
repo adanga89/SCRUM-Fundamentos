@@ -5,7 +5,8 @@
  - [Origen](#origen)
  - [La Base: El Empirismo](#la-base-el-empirismo)
  - [El Framework SCRUM](#el-framework-scrum)
- - [Definition of Done y BurnDown y BurnUp](#definicion-de-terminado---definition-of-done-y-burndown-y-burnup)
+ - [Definition of Done y BurnDown y BurnUp](#definition-of-done-y-burndown-y-burnup)
+ - [Otras Herramientas](#otras-herramientas)
 
  ### __Origen__
 
@@ -68,7 +69,7 @@ Tiene 3 partes principales:
     + Sprint Backlog o Pila de Sprint
     + Incremento
 
-### __Definición de Terminado - Definition of Done y BurnDown y BurnUp__
+### __Definition of Done y BurnDown y BurnUp__
 
 __Definition of Done__
 Es una herramienta para maximizar la transparencia en el equipo
