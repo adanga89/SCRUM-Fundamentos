@@ -88,6 +88,6 @@ En la auto-organización se debe de pedir que se solucione los problemas del cli
 Lo que se implanta en los Modelos Cross-Funcionales es cambiar el Push de un proyecto por un Pull, es decir, que se cambia el empujar todos los bloques de desarrollo por terminar un bloque y ese bloque que va terminando en el siguiente bloque y comience el desarrollo, así se va formando una cadena de bloques.
 
 # En general Agile es Personas
-`Cambio, crear valor, no es proyecto incremental si no iterativo, tiene una transparencia radical, es de mejora y aprendizaje continuo, comunicación Iterativa y auto-organizable.`
+`Cambio, crear valor, es proyecto incremental - iterativo, tiene una transparencia radical, es de mejora y aprendizaje continuo, comunicación Iterativa y auto-organizable.`
 
 # [SCRUM](./SCRUM.md)
