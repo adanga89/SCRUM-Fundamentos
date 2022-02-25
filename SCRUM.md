@@ -1,5 +1,5 @@
 [Ir a Introducción Agile](Inicio.md)
-# [SCRUM](https://neoris.udemy.com/course/agile-scrum-intensivo)
+# SCRUM
 
 ## Introducción
  - [Origen](#origen)
